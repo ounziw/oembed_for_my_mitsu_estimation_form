@@ -4,7 +4,9 @@ Donate link: http://pledgie.com/campaigns/8706
 Description: You can embed an estimation(calculation) form, provided by a webservice in Japan called My Mitsu.
 Tags: oembed, estimation, calculation
 Requires at least: 4.0
-Tested up to: 4.7.3
+Tested up to: 4.8
+Author: Fumito MIZUNO
+Author URL: https://rescuework.nagoya/blog/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +50,9 @@ This plugin allows you to set the values for width, and height. You can alter th
 1. This plugin outputs an iframe.
 
 == Changelog ==
+
+= 1.1 =
+* plugin page in the admin area
 
 = 1.0 =
 * initial release
